@@ -5,13 +5,10 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
+- [The challenge](#the-challenge)
+- [Links](#links)
 - [My process](#my-process)
-
-  - [Built with](#built-with)
-
+- [Built with](#built-with)
 - [Author](#author)
 
 ## Overview
@@ -22,13 +19,8 @@ Users should be able to:
 
 - See hover states for interactive elements
 
-### Screenshot
-
-![](./screenshot.jpg)
-
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [music-app](https://musics-app.netlify.app/)
 
 ## My process
